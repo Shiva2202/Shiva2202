@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br> * I’m currently working on<br>Building my Data Analytics skills through practical projects and real-world datasets.<br> * I’m looking to collaborate on<br>Data analysis and visualization projects where I can learn and contribute.<br>* I’m looking for help with<br>Career guidance, interview preparation, and improving my analytical skills.<br>* I’m currently learning<br>SQL, Excel, Power BI, Python, and Data Visualization.<br>* Ask me about<br>Data Analytics, dashboards, SQL, Excel, and my learning journey.<br>* Fun fact<br>I enjoy turning raw data into meaningful insights that can support better decisions
+About Me<br> - I’m currently working on<br>Building my Data Analytics skills through practical projects and real-world datasets.<br> - I’m looking to collaborate on<br>Data analysis and visualization projects where I can learn and contribute.<br> - I’m looking for help with<br>Career guidance, interview preparation, and improving my analytical skills.<br> - I’m currently learning<br>SQL, Excel, Power BI, Python, and Data Visualization.<br> -  Ask me about<br>Data Analytics, dashboards, SQL, Excel, and my learning journey.<br> - Fun fact<br>I enjoy turning raw data into meaningful insights that can support better decisions
 
 
 ## 🌐 Socials:
